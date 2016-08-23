@@ -1,0 +1,5 @@
+/packages
+/.vs
+/Heroes-ASP/bin
+/Heroes-ASP/obj
+/Heroes-ASP/*.user
